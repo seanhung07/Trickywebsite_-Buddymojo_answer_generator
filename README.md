@@ -5,5 +5,4 @@ cd Trickywebsite_-Buddymojo_answer_generator
 pip install -r requirements.txt
 python crack.py
 ```
-![Image of tool]
-(https://github.com/seanhung07/Trickywebsite_-Buddymojo_answer_generator/blob/master/demo.png)
+![Image of tool](https://github.com/seanhung07/Trickywebsite_-Buddymojo_answer_generator/blob/master/demo.png)
