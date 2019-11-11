@@ -1,1 +1,4 @@
-# Trickywebsite_-Buddymojo_answer_generator
+# Installation
+```
+pip install -r requirements.txt
+```
